@@ -1,3 +1,5 @@
+> **MOVED:** объединено в [apple_js_widget_runtime](https://github.com/IstiN/apple_js_widget_runtime) — JSC-ядро шарится 100% между iOS/macOS, отличия только в UIKit/AppKit маппинге. Issues #1/#2 закрыты там же.
+
 # ios_js_widget_runtime
 
 iOS renderer for jsr widgets: JavaScriptCore (or embedded QuickJS) + JSON tree to UIKit/SwiftUI.
